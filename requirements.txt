@@ -1,0 +1,3 @@
+multiping==1.1.2
+python_telegram_bot==12.8
+telegram==0.0.1
